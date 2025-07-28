@@ -6,5 +6,6 @@
     clash-ghc
     ghdl
     htop
+    kitty
   ];
 }
